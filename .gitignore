@@ -1,0 +1,30 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de construção e diretórios
+bin/
+target/
+.idea/
+
+# Arquivos de configuração de build
+build.xml
+pom.xml
+.gradle/
+mvnw
+gradlew
+gradle-wrapper.jar
+
+# Arquivos de dependência
+*.jar
+
+# Arquivos de configuração de IDE
+.settings/
+*.iml
+.idea/workspace.xml
+.idea/modules.xml
+
+# Logs e arquivos temporários
+*.log
+*.bak
+*.swp
+*~
